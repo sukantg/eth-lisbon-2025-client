@@ -1,5 +1,3 @@
-# mech_superforcaster_request.py
-
 from mech_client.marketplace_interact import marketplace_interact
 
 # === Configuration ===
